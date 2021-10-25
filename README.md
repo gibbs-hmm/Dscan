@@ -1,5 +1,4 @@
 # Dscan
-# dscan #
 
 dscan searches a collection of sequences in FASTA format to find sites that match a given motif pattern.<br><br>
 dscan also requires a
